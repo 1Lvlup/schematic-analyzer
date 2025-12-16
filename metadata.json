@@ -1,0 +1,5 @@
+{
+  "name": "CircuitMind Schematic Analyzer",
+  "description": "A powerful AI tool that ingests electronic schematics and wiring diagrams, converting them into structured, machine-readable data and providing deep functional analysis.",
+  "requestFramePermissions": []
+}
